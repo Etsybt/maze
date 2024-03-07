@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\firstSDLwindow\firstSDLwindow\main.cpp(23,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\firstSDLwindow\firstSDLwindow\main.cpp(24,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\firstSDLwindow\firstSDLwindow\main.cpp(64,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\firstSDLwindow\firstSDLwindow\main.cpp(72,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  firstSDLwindow.vcxproj -> D:\firstSDLwindow\x64\Debug\firstSDLwindow.exe
